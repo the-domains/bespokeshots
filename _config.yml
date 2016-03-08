@@ -1,0 +1,14 @@
+layout_spectrum: 0.9199785
+color:
+  saturation: 0.09483971
+  lightness: 0.8059739
+  brandStrength: 0.18583
+  rhythmicContrast: 0.1787652
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.8177963
+name: 'BespokeShots '
